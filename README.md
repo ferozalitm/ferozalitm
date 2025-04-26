@@ -17,7 +17,6 @@ internal/external stakeholders.
 - Strong problem-solving, analytical, and programming skills.
 - Recipient of multiple national-level awards.
 - Recognized in sports and certified in fire and risk management.
-- 📫 I am reachable at  ferozalitmiitb@gmail.com
 <!---
 ferozalitm/ferozalitm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
