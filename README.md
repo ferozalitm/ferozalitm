@@ -1,4 +1,4 @@
-• 👋 Hi, I’m T M Feroz Ali.
+- 👋 Hi, I’m T M Feroz Ali.
 - Lead Senior AI Researcher (Computer Vision and Machine Learning) at Qualcomm XR Research.
 - Ph.D. and Master’s degree (CPI: 9.5/10) from Indian Institute of Technology Bombay.
 - Published research in top-tier international venues including TPAMI and ECCV.
