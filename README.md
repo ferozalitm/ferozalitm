@@ -1,7 +1,7 @@
 • 👋 Hi, I’m T M Feroz Ali.
-• Lead Senior AI Researcher (Computer Vision and Machine Learning) at Qualcomm XR Research.
-• Ph.D. and Master’s degree (CPI: 9.5/10) from Indian Institute of Technology Bombay.
-• Published research in top-tier international venues including TPAMI and ECCV.
+- Lead Senior AI Researcher (Computer Vision and Machine Learning) at Qualcomm XR Research.
+- Ph.D. and Master’s degree (CPI: 9.5/10) from Indian Institute of Technology Bombay.
+- Published research in top-tier international venues including TPAMI and ECCV.
 • Filed 2 patents in facial avatar generation technology.
 • Total 15+ years of research experience including 5+ years in industrial R&D.
 • 9+ years of research experience in Generative AI, Computer Vision, Machine Learning, Deep Learning, covering areas such as Large Vision/Language Modals LVMs, LLMs), visual question answering, virtual reality, facial avatars, shape estimation, domain adaptation, image generation using generative adversarial networks(GaN), variational auto-encoders (VAE), segmentation, metric learning, object retrieval and
